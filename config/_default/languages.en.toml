@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The Personal Blog"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "&copy; 2025 Achintyanand Singh. All Rights reserved."
+
+[params.author]
+   name = "Achintyanand Singh"
+#  email = "youremail@example.com"
+   image = "img/profile.png"
+#   imageQuality = 96
+   headline = "I'm a life long learner."
+#   bio = "A little bit about you"
+   links = [
+
+      {x-twitter = "https://x.com/AchintyanandS" },
+      {instagram = "https://instagram.com/achinty_anand/"},
+   ]
